@@ -31,7 +31,7 @@
     "cross-env": "~7.0.3",
     "css-loader": "^5.2.1",
     "dotenv-webpack": "^8.0.1",
-    "esbuild": "^0.24.2",
+    "esbuild": "^0.25.9",
     "esbuild-loader": "^4.0.3",
     "file-loader": "^6.2.0",
     "fork-ts-checker-webpack-plugin": "^9.0.2",
@@ -51,7 +51,7 @@
     "webpack": "^5.97.1",
     "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^5.2.2"
   },
   "dependencies": {
     "@hcengineering/achievement": "^0.6.0",
