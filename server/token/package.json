@@ -42,7 +42,7 @@
     "@hcengineering/core": "^0.6.32",
     "@hcengineering/platform": "^0.6.11",
     "jwt-simple": "^0.5.6",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "repository": "https://github.com/hcengineering/platform",
   "publishConfig": {
