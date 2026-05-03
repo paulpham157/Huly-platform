@@ -76,7 +76,7 @@
     "ws": "^8.18.2",
     "@hcengineering/drive": "^0.6.0",
     "@hcengineering/export": "^0.6.0",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.0",
     "tar": "^7.4.3",
     "archiver": "^7.0.1",
     "js-yaml": "^4.1.0",
