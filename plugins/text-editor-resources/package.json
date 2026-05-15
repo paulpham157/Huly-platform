@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@hcengineering/platform": "^0.6.11",
-    "svelte": "^4.2.19",
+    "svelte": "^5.55.7",
     "@hcengineering/ui": "^0.6.15",
     "@hcengineering/analytics": "^0.6.0",
     "@hcengineering/presentation": "^0.6.3",
@@ -93,7 +93,7 @@
     "lib0": "^0.2.88",
     "y-indexeddb": "^9.0.12",
     "lowlight": "^3.3.0",
-    "mermaid": "~11.4.1",
+    "mermaid": "~11.15.0",
     "@hcengineering/theme": "^0.6.5",
     "tippy.js": "~6.3.7",
     "@hcengineering/chunter": "^0.6.20",
